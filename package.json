@@ -12,6 +12,7 @@
     "hapi": "^16.5.2",
     "inert": "^4.2.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+  },
   "description": ""
 }

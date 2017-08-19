@@ -23,8 +23,7 @@ docker build -t hellodog .
 Run it
 
 ```
-
-docker run -p 8080:8080 -d hellodog
+docker run -p 8080:8080 -v $(pwd):/app hellodog
 ```
 
 There you go
